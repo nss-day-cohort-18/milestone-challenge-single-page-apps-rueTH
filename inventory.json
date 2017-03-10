@@ -1,0 +1,34 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "image": "images/2006rogue.jpeg",
+      "year": "2006",
+      "price": "8999",
+      "color": "red",
+      "purchased": false,
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything. "
+    },
+    {
+      "make": "Toyota",
+      "model": "Prius",
+      "image": "images/2006prius.jpg",
+      "year": "2006",
+      "price": "For Barter Only; ISO: Affordable Healthcare and/or a Rose Gold iPhone.",
+      "color": "black",
+      "purchased": false,
+      "description": "With 211455 on the odometer, this OG Toyota Hybrid, one of the original Gen2 Prius line, is truly a time capsule of millenial 'basic bitch' history. From the tell-tale signs of cigarette burns (college, circa 2011), to the familiar sundried dash, forever destined to remain the color of her owner's foundation (AOII pledge year, circa 2009), as well as the effectively permanant fixtures of strangely located PSLatte stains, you will inevitably find yourself distracted from your sociological observation and immersed in the nostalgia of what life was like before you had your shit together. Please note: This item is available for trade only. Please see pricing for more information. "
+    },
+    {
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "image": "images/2005santaFe.png",
+      "year": "2005",
+      "price": "8299",
+      "color": "blue",
+      "purchased": false,
+      "description": "This is an immaculate 2006 Hyundai Santa Fe with only 877 miles on it (the vehicle was seized by police 870 miles away from the dealership, 78 hours after its time of purchase, and the Lindbergh baby was safely returned to his family). Leather seats, power everything."
+    }
+  ]
+}

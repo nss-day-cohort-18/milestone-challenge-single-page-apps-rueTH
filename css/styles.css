@@ -1,0 +1,15 @@
+.card {
+  color: black;
+  background-color: white;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 10px;
+  min-height: 200px;
+  border: 2px solid grey;
+
+}
+
+.selected {
+  background-color: lightslategray !important;
+  border: 6px solid red !important;
+}
